@@ -1,0 +1,15 @@
+body {
+    background-color: turquoise;
+}
+
+#correct {
+    color: green;
+}
+
+#incorrect {
+    color: red;
+}
+
+#bad {
+    color: darkred;
+}
